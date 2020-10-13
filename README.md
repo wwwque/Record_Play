@@ -1,6 +1,11 @@
 # Record_Play
 Self integrated library for recording and playing
 
+- import pyaudio
+- import wave
+- import time
+- from pydub import AudioSegment
+
 ### Record\_Play.mixFiles(file1\_path,file2\_path,mix\_path='mix\_audio')： ###
 
 - 说明：混音
