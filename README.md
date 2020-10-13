@@ -5,6 +5,7 @@ Self integrated library for recording and playing
 - import wave
 - import time
 - from pydub import AudioSegment
+--------------------------------
 
 ### Record\_Play.mixFiles(file1\_path,file2\_path,mix\_path='mix\_audio')： ###
 
